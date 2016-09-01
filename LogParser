@@ -8,3 +8,6 @@ warning /WARNING/
 
 # create a quick access link to lines in the report containing 'INFO'
 info /INFO/
+#errors list
+error /Finished: FAILURE/
+error /build as failure/
